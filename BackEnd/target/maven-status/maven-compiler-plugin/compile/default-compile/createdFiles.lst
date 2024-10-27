@@ -1,4 +1,5 @@
 congestion\calculator\service\TaxCalculatorService.class
 congestion\calculator\CongestionTaxCalculatorApplication.class
 congestion\calculator\model\Vehicle.class
+congestion\calculator\config\WebConfig.class
 congestion\calculator\controller\TaxCalculatorController.class
